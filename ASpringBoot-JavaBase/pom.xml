@@ -7,7 +7,6 @@
     <groupId>org.example</groupId>
     <artifactId>ASpringBoot-JavaBase</artifactId>
     <version>1.0-SNAPSHOT</version>
-
     <dependencies>
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
@@ -36,4 +35,5 @@
 
 
     </dependencies>
+
 </project>
